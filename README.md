@@ -18,7 +18,7 @@ Scala、Ruby, NQP、Racket、Scheme、Common Lisp、Clojure, OCaml、Haskell, F#
 
 ## 作って学ぶ抽象機械（SECD抽象機械とCEK抽象機械の実装付き）
 
-## 美味しいLISPの作り方（純リスプと継続渡し形式への変換の実装）
+## 美味しいLISPの作り方（純LISPと継続渡し形式への変換の実装）
 
 ## もっと美味しいLISPの作り方（古典的なマクロと健全なマクロの実装）
 
