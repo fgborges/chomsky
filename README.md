@@ -22,4 +22,4 @@ Scala、Ruby, NQP、Racket、Scheme、Common Lisp、Clojure, OCaml、Haskell, F#
 
 ## もっと美味しいLISPの作り方（古典的なマクロと健全なマクロの実装）
 
-## 絶対分からない英語入門（モンタギュー意味論による英語の形式化）
+## 絶対分からない英語講座（モンタギュー意味論による英語の形式化）
